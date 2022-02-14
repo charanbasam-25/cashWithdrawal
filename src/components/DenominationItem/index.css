@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.denomination-item {
+  list-style-type: none;
+}
+.button {
+  background-color: #382f5a;
+  border: 2px solid #d4d2db;
+  padding-top: 5px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-bottom: 5px;
+}
